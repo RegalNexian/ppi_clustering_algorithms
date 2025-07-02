@@ -1,0 +1,9 @@
+# networkx
+# numpy
+# pandas
+# scipy
+# plotly
+# python-louvain
+# markov-clustering
+# python-igraph
+# leidenalg
